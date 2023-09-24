@@ -18,10 +18,6 @@ Read more here: [License](http://tympanus.net/codrops/licensing/)
 - Background from [Freepik.com](http://www.freepik.com)
 - Play Button by [Madebyolive](http://www.flaticon.com/authors/madebyoliver) from [Flaticon.com](http://www.flaticon.com/free-icon/play-button_149125)
 
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](https://www.facebook.com/codrops/), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
-
 
 [© Codrops 2017](http://www.codrops.com)
 
